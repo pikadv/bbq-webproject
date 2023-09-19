@@ -12,8 +12,7 @@ body{
 /* ==============typo and links============ */
 
 h1,
-h2,
-h3{
+h2{
     font-weight: 900;
     margin: 0;
 }
